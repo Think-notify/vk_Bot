@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com/Think-notify/vk_Bot/refs/heads/main/firmware_v1.0.2.bin",
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/Think-notify/vk_Bot/refs/heads/main/firmware.bin",
     "allowed_macs": [
     "48:E7:29:B3:44:A0",
     "58:E6:C5:C5:D4:DC"
